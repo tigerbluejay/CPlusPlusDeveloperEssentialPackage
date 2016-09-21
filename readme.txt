@@ -6,3 +6,10 @@ assignment operators, arithmetic operators, conditional control structures
 
 Project 2 files cover:
 Topics in Project 1 + repetition control structures, basic file operations
+
+Project 3 files cover:
+Topics in Projects 1-2 + user-defined functions, value and reference parameters,
+elementary software engineering principles,  the vector class,
+
+Project 4 files cover:
+TBD
