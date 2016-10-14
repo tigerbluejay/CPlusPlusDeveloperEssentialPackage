@@ -12,4 +12,5 @@ Topics in Projects 1-2 + user-defined functions, value and reference parameters,
 elementary software engineering principles,  the vector class,
 
 Project 4 files cover:
-TBD
+Topics in Projects 1-4, constructor, function and operator overloading, accessors, mutators, code optimization
+
